@@ -1,0 +1,9 @@
+Package: AQScodes
+Type: Package
+Title: Tables of codes for the US EPA's Air Quality System (AQS)
+Version: 0.1.0
+Author: Nathan Byers
+Maintainer: Nathan Byers <nbyers@fluentdatallc.com>
+Description: Tables of codes for the US EPA's Air Quality System (AQS)
+License: GPL-3
+LazyData: TRUE
